@@ -1,0 +1,2887 @@
+!SESSION 2023-04-19 13:17:53.217 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-04-19 13:18:03.159
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-19 13:18:03.159
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@126af200,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e000a17,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-19 13:18:03.159
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@77d959f1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@11c999da,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-19 13:18:06.517
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-04-19 13:22:08.920 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-04-19 13:22:21.977
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-19 13:22:21.977
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@af3295f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27dc81be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-19 13:22:21.977
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3595086b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@627d35ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-19 13:22:24.593
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-04-22 18:38:37.917 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-04-22 18:38:46.602
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-22 18:38:46.602
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72e49f6a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e4b5da1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-22 18:38:46.602
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@312819ae,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ae2c01b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-22 18:38:50.845
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-04-28 15:24:23.603 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-04-28 15:24:28.830
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2023-04-28 15:24:31.255
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-28 15:24:31.255
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4d75c604,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3265995e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-28 15:24:31.255
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@33f2eb04,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4df13dd0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-28 15:24:35.490
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-04-29 09:03:24.974 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-04-29 09:05:34.195
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 09:05:34.195
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72e49f6a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e4b5da1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 09:05:34.195
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@312819ae,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ae2c01b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-29 09:05:38.845
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-04-29 10:09:57.798 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-04-29 10:10:06.584
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 10:10:06.584
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72e49f6a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e4b5da1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 10:10:06.584
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@312819ae,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ae2c01b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-29 10:10:13.830
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-04-29 10:10:42.049 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-04-29 10:10:51.040
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 10:10:51.040
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@af3295f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27dc81be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 10:10:51.040
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3595086b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@627d35ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-29 10:10:57.991
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-04-29 11:04:19.016 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-04-29 11:04:24.447
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 11:04:24.447
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7d5a0b14,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@72ec16f8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-04-29 11:04:24.447
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@279e1422,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@af3295f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-04-29 11:04:27.356
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-05-16 09:47:44.900 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-05-16 09:48:03.226
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 09:48:03.226
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@627d35ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7157413e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 09:48:03.226
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3245efdb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f0e7fa8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-05-16 09:48:09.288
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-05-16 09:50:35.221 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-05-16 09:50:53.382
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 09:50:53.382
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@52d59507,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4d75c604,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 09:50:53.382
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3265995e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@33f2eb04,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-05-16 09:50:56.720
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-05-16 09:52:50.242 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product C:\Users\sbuiz\eclipse-workspace\Group_03\Group_03\src\myShelfie\TesseraObiettivoComune.java
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product C:\Users\sbuiz\eclipse-workspace\Group_03\Group_03\src\myShelfie\TesseraObiettivoComune.java
+
+!ENTRY org.eclipse.jface 2 0 2023-05-16 09:52:56.893
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 09:52:56.893
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@279e1422,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@af3295f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 09:52:56.893
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27dc81be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3595086b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-05-16 09:53:01.616
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-05-16 12:33:40.448 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-05-16 12:33:45.667
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 12:33:45.667
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e4b5da1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@312819ae,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 12:33:45.668
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ae2c01b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1cab19e2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-05-16 12:33:48.530
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-05-16 14:12:15.557 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-05-16 14:12:23.325
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 14:12:23.325
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1cab19e2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6879e983,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-05-16 14:12:23.325
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@196d684b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45d38165,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-05-16 14:12:29.075
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\sbuiz'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-05-16 14:43:03.490
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package myShelfie;
+
+import java.util.Random;
+
+import myShelfie.TesseraOggetto.Colore;
+
+/*
+ * al momento dell'estrazione casuale delle due tessere obiettivo comune si
+ * salva in due variabili quale obiettivo va perseguito (il codice sottostante
+ * deve essere inserito nella classe di scorrimento del gioco)
+ * 
+ * public final enum PrimoObiettivo; public final enum SecondoObiettivo;
+ * 
+ * Random random = new Random();
+ * 
+ * genero due numeri casuali tra 1 e 12 finchï¿½ non sono diversi do{ int n1 =
+ * random.nextInt(12)+1; int n2 = random.nextInt(12)+1; } while(n1=n2)
+ * 
+ * associo ad ogni obiettivo in campo un obiettivo esistente PrimoObiettivo =
+ * Associa(n1); SecondoObiettivo = Associa(n2);
+ * 
+ * metodo per associare ad ogni numero casuale il corrispondente obiettivo
+ * public enum Associa(int n){ switch (n) { case 1: return
+ * ObiettivoComune.Obiettivo1; break; case 2: return ObiettivoComune.Obiettivo2;
+ * break; case 3: return ObiettivoComune.Obiettivo3; break; case 4: return
+ * ObiettivoComune.Obiettivo4; break; case 5: return ObiettivoComune.Obiettivo5;
+ * break; case 6: return ObiettivoComune.Obiettivo6; break; case 7: return
+ * ObiettivoComune.Obiettivo7; break; case 8: return ObiettivoComune.Obiettivo8;
+ * break; case 9: return ObiettivoComune.Obiettivo9; break; case 10: return
+ * ObiettivoComune.Obiettivo10; break; case 11: return
+ * ObiettivoComune.Obiettivo11; break; case 12: return
+ * ObiettivoComune.Obiettivo12; break; } }
+ * 
+ * 
+ */
+
+public class TesseraObiettivoComune {
+
+	public enum ObiettivoComune {
+		// l'identificazione delle carte obiettivo avviene tramite semplice numerazione
+		Obiettivo1, Obiettivo2, Obiettivo3, Obiettivo4, Obiettivo5, Obiettivo6, Obiettivo7, Obiettivo8, Obiettivo9,
+		Obiettivo10, Obiettivo11, Obiettivo12;
+
+		private static final ObiettivoComune[] obiettivi = ObiettivoComune.values();
+		private static final Random RandObiettivo = new Random();
+
+		public static ObiettivoComune getObiettivoComune(int i) {
+			return ObiettivoComune.obiettivi[i];
+		}
+
+		public static ObiettivoComune randObiettivi() {
+			ObiettivoComune[] obiettivi = values();
+			return obiettivi[RandObiettivo.nextInt(obiettivi.length)];
+		}
+
+	}
+
+	static ObiettivoComune obiettivo;
+
+	public TesseraObiettivoComune() {
+		obiettivo = ObiettivoComune.randObiettivi();
+	}
+	
+	
+	private static int punti = 8;
+	public static int getPoints(int numGiocatori) {
+		int tmp = punti;
+		if(numGiocatori > 2) {
+			punti -= 2;
+			return tmp;
+		}
+		if(numGiocatori == 2) {
+			punti -= 4;
+			return tmp;
+		}		
+	}
+
+	public static boolean ControlloObiettivoRaggiunto(TesseraObiettivoComune tessera_obiettivo, TesseraOggetto[][] libreria){ //passo obiettivo da controllare e libreria da controllare
+		
+		obiettivo = tessera_obiettivo.obiettivo;
+		switch (obiettivo) {
+		
+		case Obiettivo1:
+			//6 gruppi (separati) di due tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert = 0; // contatore per tenere traccia di quanti gruppi ci sono in verticale
+			int oriz = 0; //contatore per tenere traccia di quanti gruppi ci sono in orizzontale
+			
+			//controllo gruppo verticale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore()) {
+						vert++;
+						c+=1; //se trovo un gruppo la prossima colonna da controllare è a +2 dal riferimento 
+					}
+				}
+				if(vert!=0) {
+					r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+				}
+			}				
+		
+			
+			//controllo gruppo orizzontale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r+1; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}				
+		
+			
+			
+			if((vert+orizz) >= 6){
+				return true;
+			}else{
+				return false;
+				}
+			
+			
+		case Obiettivo2:
+			//4 tessere dello stesso tipo ai 4 angoli della libreria
+			if(libreria[0][0].getColore() == libreria[5][0].getColore() && libreria[0][0].getColore() == libreria[5][4].getColore() && libreria[0][0].getColore() == libreria[0][4].getColore()) {
+				return true;
+			}else{
+				return true;
+			}
+			
+		case Obiettivo3:
+			//4 gruppi (separati) di 4 tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert=0;
+			int oriz=0;
+			
+			 confronta la tessera con le 4 tessere adiacenti in verticale
+			 
+			
+			for(int c=0; c<6; c++) {  //scorro le colonne
+				for(int r=0; r<5; r++) { //scorro le righe
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore() == libreria[r+2][c].getColore() == libreria [r+3][c].getColore()) {
+						vert++;
+						r+=4; //se trovo un gruppo la riga da controllare è a +5 dal riferimento
+						c++; // la colonna da controllare va a +2 dal riferimento
+					}
+				}
+			}
+			
+			//controllo orizzontale
+			 
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=4; //se trovo un gruppo la prossima colonna da controllare è a +5 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r++; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}	
+			
+			
+			
+			if((vert+oriz) >= 4){
+				return true;
+			}else{
+				return false;
+				}
+				
+				 
+			
+			
+		case Obiettivo4:
+			//2 quadrati (separati) di 4 tessere dello stesso tipo anche i quadrati dello stesso tipo
+			
+			
+			int cont = 0; // contatore per tenere traccia di quanti gruppi ci sono
+			
+				for(int r=0, r<=5, r++) {
+					for(int c=0, c<=4, c++) {
+						if(libreria[r][c].getColore() == libreria[r][c+1].getColore() && libreria[r][c].getColore() == libreria[r+1][c].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore()) {
+							cont++;
+							c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+						}
+					}
+					if(cont!=0) {
+						r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+					}
+				}				
+			
+			if(cont=2){
+				return true;
+			}else{
+				return false;
+				}
+			
+						
+			
+		case Obiettivo5:
+			//3 colonne di 6 tessere di max 3 tipi diversi (colonne possono avere combinazioni di tipi diverse)
+			
+			return true;
+			
+		case Obiettivo6:
+			//8 tessere dello stesso tipo
+			int contatore = 0;		
+			
+			//fisso (e scorro) la cella da confrontare con tutte le altre
+			for(int fissaR=0; fissaR<=5; fissaR++) {
+				for( int fixC=0; fixC>=4; fixC++) {
+					
+					//scorro l'intera matrice: PROBLEMA CHE FA CONFRONTO CON SE STESSO !!!!!!!!
+					for(int r=0; r<=5; r++) {
+						for(int c=0; c<=4; c++) {
+							if(libreria[fissaR][fixC].getColore()==libreria[r][c].getColore()){
+								contatore++;
+								if(contatore==8) {
+									return true;
+								}
+							}
+						}
+					}
+				}
+			}		
+			
+			return false;
+			
+		case Obiettivo7:
+			//5 tessere dello stesso tipo che fomrano una diagonale; 
+			boolean d1 = true;
+			boolean d2 = true;
+			boolean d3 = true;
+			boolean d4 = true;
+			
+			//check prima diagonale possibile
+			for( int r=0; r<=3; r++) {
+				for( int i=r+1; i<=4; i++) {
+					if(libreria[r][r].getColore()!=libreria[r][i].getColore()) {
+						d1 = false;
+						break;
+					}
+				}
+				if(d1==false) {
+					break;
+				}
+			}
+			
+			//check seconda diagonale possibile
+			for(r=1; r<=5; r++) {
+				for( int i=r+1; i<=5; i++) {
+					if(libreria[r][r-1].getColore()!=libreria[r][i].getColore()) {
+						d2 = false;
+						break;
+					}
+				}
+				if(d2==false) {
+					break;
+				}
+			}
+			
+			//check terza diagonale possibile
+			for(r=0; r<=3; r++) {
+				for(int i=r+1; i<=4; i++) {
+					if(libreria[r][4-r].getColore()!=libreria[r][i].getColore()) {
+						d3 = false;
+						break;
+					}
+				}
+				if(d3==false) {
+					break;
+				}
+			}
+			
+			//check quarta diagonale possibile
+			for(r=1; r<=4; r++) {
+				for(int i=r+1; i<=5; i++) {
+					if(libreria[r][5-r].getColore()!=libreria[r][i].getColore()) {
+						d4 = false;
+						break;
+					}
+				}
+				if(d4==false) {
+					break;
+				}
+			}
+			
+			
+			if(d1==true || d2==true || d3==true || d4==true) {
+				return true;
+			}else {
+				return false;
+				}
+			
+		case Obiettivo8:
+			//4 righe di 5 tessere di max 3 tipi diversi (righe possono avere combinazioni di tipi diverse)
+			
+			for(int c=0; c<=4, c++) {
+				for(int r=0, r<=5)
+			}
+			
+			return true;
+			
+		case Obiettivo9:
+			//2 colonne ciascuna di 6 tipi diversi
+			int conto = 0; 
+			int fixR = 0;
+			int c = 0;
+			boolean div = true; //partiamo dal presupposto che in una colonna tutte le celle siano diverse
+			
+			do {
+				for(fixR=0; fixR<=4; fixR++) { //fisso (e scorro) la cella della colonna da controllare
+					for(r=fixR+1; r<=5; r++) { //scorro le celle successive 
+						if(libreria[fixR][c].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se ï¿½ vero che sono diverse
+						conto++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				c++; //passo al controllo di un'altra colonna
+				
+			}while{conto<2 || c<=4} //il ciclo si interrompe quando trovo le due colonne o quando ho controllato tutte le colonne
+			
+			if(conto==2) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		case Obiettivo10:
+			//2 righe ciascuna di 5 tipi diversi
+			int cont = 0; 
+			int fixC = 0;
+			int r = 0;
+			boolean div = true; //partiamo dal presupposto che in una riga tutte le celle siano diverse
+			
+			do {
+				for(fixC=0; fixC<=3; fixC++) { //fisso (e scorro) la cella della riga da controllare
+					for(c=fixC+1; c<=4; c++) { //scorro le celle successive 
+						if(libreria[r][fixC].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se è vero che sono diverse
+						cont++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				r++; //passo al controllo di un'altra riga
+				
+			}while{cont<2 || r<=5} //il ciclo si interrompe quando trovo le due righe o quando ho controllato tutte le righe
+			
+			if(cont==2) {
+				return true;
+			}else {
+				return false;
+			}
+			return true;
+			
+		case Obiettivo11:
+			//5 tessere dello stesso tipo messe a X
+			
+			for(int c=0; c<=4; c++) {
+				for(int r=0; r<=5, r++) {
+					if (libreria[r][c].getColore() == libreria[r][c+2].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore() && libreria[r][c].getColore() == libreria[r+2][c+2].getColore() && libreria[r][c].getColore() == libreria[r+2][c].getColore()) {
+						return true;
+					}
+				}
+			}
+			
+			return false;
+			
+		case Obiettivo12:
+			//5 colonne di altezza crescente/decrescente con tessere di qualsiasi tipo
+			
+			boolean dec = false;
+			boolean cre = false;
+			
+			//controllo decrescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=c+1; r<=5, r++) {
+					if (libreria[r][c]!=null) {
+						dec = true;
+					}else {
+						 dec = false;
+					}
+				}
+			}
+			
+			//controllo crescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=5; r>=5-c; r--) {
+					if (libreria[r][c]!=null) {
+						cre = true;
+					}else {
+						 cre = false;
+					}
+				}
+			}
+			
+			if(dec==true || cre==true) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		return false;
+		}
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:521)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2023-05-16 14:43:03.500
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:521)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2023-05-16 14:43:03.508
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:521)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-05-16 14:43:03.532
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package myShelfie;
+
+import java.util.Random;
+
+import myShelfie.TesseraOggetto.Colore;
+
+/*
+ * al momento dell'estrazione casuale delle due tessere obiettivo comune si
+ * salva in due variabili quale obiettivo va perseguito (il codice sottostante
+ * deve essere inserito nella classe di scorrimento del gioco)
+ * 
+ * public final enum PrimoObiettivo; public final enum SecondoObiettivo;
+ * 
+ * Random random = new Random();
+ * 
+ * genero due numeri casuali tra 1 e 12 finchï¿½ non sono diversi do{ int n1 =
+ * random.nextInt(12)+1; int n2 = random.nextInt(12)+1; } while(n1=n2)
+ * 
+ * associo ad ogni obiettivo in campo un obiettivo esistente PrimoObiettivo =
+ * Associa(n1); SecondoObiettivo = Associa(n2);
+ * 
+ * metodo per associare ad ogni numero casuale il corrispondente obiettivo
+ * public enum Associa(int n){ switch (n) { case 1: return
+ * ObiettivoComune.Obiettivo1; break; case 2: return ObiettivoComune.Obiettivo2;
+ * break; case 3: return ObiettivoComune.Obiettivo3; break; case 4: return
+ * ObiettivoComune.Obiettivo4; break; case 5: return ObiettivoComune.Obiettivo5;
+ * break; case 6: return ObiettivoComune.Obiettivo6; break; case 7: return
+ * ObiettivoComune.Obiettivo7; break; case 8: return ObiettivoComune.Obiettivo8;
+ * break; case 9: return ObiettivoComune.Obiettivo9; break; case 10: return
+ * ObiettivoComune.Obiettivo10; break; case 11: return
+ * ObiettivoComune.Obiettivo11; break; case 12: return
+ * ObiettivoComune.Obiettivo12; break; } }
+ * 
+ * 
+ */
+
+public class TesseraObiettivoComune {
+
+	public enum ObiettivoComune {
+		// l'identificazione delle carte obiettivo avviene tramite semplice numerazione
+		Obiettivo1, Obiettivo2, Obiettivo3, Obiettivo4, Obiettivo5, Obiettivo6, Obiettivo7, Obiettivo8, Obiettivo9,
+		Obiettivo10, Obiettivo11, Obiettivo12;
+
+		private static final ObiettivoComune[] obiettivi = ObiettivoComune.values();
+		private static final Random RandObiettivo = new Random();
+
+		public static ObiettivoComune getObiettivoComune(int i) {
+			return ObiettivoComune.obiettivi[i];
+		}
+
+		public static ObiettivoComune randObiettivi() {
+			ObiettivoComune[] obiettivi = values();
+			return obiettivi[RandObiettivo.nextInt(obiettivi.length)];
+		}
+
+	}
+
+	static ObiettivoComune obiettivo;
+
+	public TesseraObiettivoComune() {
+		obiettivo = ObiettivoComune.randObiettivi();
+	}
+	
+	
+	private static int punti = 8;
+	public static int getPoints(int numGiocatori) {
+		int tmp = punti;
+		if(numGiocatori > 2) {
+			punti -= 2;
+			return tmp;
+		}
+		if(numGiocatori == 2) {
+			punti -= 4;
+			return tmp;
+		}		
+	}
+
+	public static boolean ControlloObiettivoRaggiunto(TesseraObiettivoComune tessera_obiettivo, TesseraOggetto[][] libreria){ //passo obiettivo da controllare e libreria da controllare
+		
+		obiettivo = tessera_obiettivo.obiettivo;
+		switch (obiettivo) {
+		
+		case Obiettivo1:
+			//6 gruppi (separati) di due tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert = 0; // contatore per tenere traccia di quanti gruppi ci sono in verticale
+			int oriz = 0; //contatore per tenere traccia di quanti gruppi ci sono in orizzontale
+			
+			//controllo gruppo verticale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore()) {
+						vert++;
+						c+=1; //se trovo un gruppo la prossima colonna da controllare è a +2 dal riferimento 
+					}
+				}
+				if(vert!=0) {
+					r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+				}
+			}				
+		
+			
+			//controllo gruppo orizzontale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r+1; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}				
+		
+			
+			
+			if((vert+orizz) >= 6){
+				return true;
+			}else{
+				return false;
+				}
+			
+			
+		case Obiettivo2:
+			//4 tessere dello stesso tipo ai 4 angoli della libreria
+			if(libreria[0][0].getColore() == libreria[5][0].getColore() && libreria[0][0].getColore() == libreria[5][4].getColore() && libreria[0][0].getColore() == libreria[0][4].getColore()) {
+				return true;
+			}else{
+				return true;
+			}
+			
+		case Obiettivo3:
+			//4 gruppi (separati) di 4 tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert=0;
+			int oriz=0;
+			
+			 confronta la tessera con le 4 tessere adiacenti in verticale
+			 
+			
+			for(int c=0; c<6; c++) {  //scorro le colonne
+				for(int r=0; r<5; r++) { //scorro le righe
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore() == libreria[r+2][c].getColore() == libreria [r+3][c].getColore()) {
+						vert++;
+						r+=4; //se trovo un gruppo la riga da controllare è a +5 dal riferimento
+						c++; // la colonna da controllare va a +2 dal riferimento
+					}
+				}
+			}
+			
+			//controllo orizzontale
+			 
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=4; //se trovo un gruppo la prossima colonna da controllare è a +5 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r++; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}	
+			
+			
+			
+			if((vert+oriz) >= 4){
+				return true;
+			}else{
+				return false;
+				}
+				
+				 
+			
+			
+		case Obiettivo4:
+			//2 quadrati (separati) di 4 tessere dello stesso tipo anche i quadrati dello stesso tipo
+			
+			
+			int cont = 0; // contatore per tenere traccia di quanti gruppi ci sono
+			
+				for(int r=0, r<=5, r++) {
+					for(int c=0, c<=4, c++) {
+						if(libreria[r][c].getColore() == libreria[r][c+1].getColore() && libreria[r][c].getColore() == libreria[r+1][c].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore()) {
+							cont++;
+							c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+						}
+					}
+					if(cont!=0) {
+						r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+					}
+				}				
+			
+			if(cont=2){
+				return true;
+			}else{
+				return false;
+				}
+			
+						
+			
+		case Obiettivo5:
+			//3 colonne di 6 tessere di max 3 tipi diversi (colonne possono avere combinazioni di tipi diverse)
+			
+			return true;
+			
+		case Obiettivo6:
+			//8 tessere dello stesso tipo
+			int contatore = 0;		
+			
+			//fisso (e scorro) la cella da confrontare con tutte le altre
+			for(int fissaR=0; fissaR<=5; fissaR++) {
+				for( int fixC=0; fixC>=4; fixC++) {
+					
+					//scorro l'intera matrice: PROBLEMA CHE FA CONFRONTO CON SE STESSO !!!!!!!!
+					for(int r=0; r<=5; r++) {
+						for(int c=0; c<=4; c++) {
+							if(libreria[fissaR][fixC].getColore()==libreria[r][c].getColore()){
+								contatore++;
+								if(contatore==8) {
+									return true;
+								}
+							}
+						}
+					}
+				}
+			}		
+			
+			return false;
+			
+		case Obiettivo7:
+			//5 tessere dello stesso tipo che fomrano una diagonale; 
+			boolean d1 = true;
+			boolean d2 = true;
+			boolean d3 = true;
+			boolean d4 = true;
+			
+			//check prima diagonale possibile
+			for( int r=0; r<=3; r++) {
+				for( int i=r+1; i<=4; i++) {
+					if(libreria[r][r].getColore()!=libreria[r][i].getColore()) {
+						d1 = false;
+						break;
+					}
+				}
+				if(d1==false) {
+					break;
+				}
+			}
+			
+			//check seconda diagonale possibile
+			for(r=1; r<=5; r++) {
+				for( int i=r+1; i<=5; i++) {
+					if(libreria[r][r-1].getColore()!=libreria[r][i].getColore()) {
+						d2 = false;
+						break;
+					}
+				}
+				if(d2==false) {
+					break;
+				}
+			}
+			
+			//check terza diagonale possibile
+			for(r=0; r<=3; r++) {
+				for(int i=r+1; i<=4; i++) {
+					if(libreria[r][4-r].getColore()!=libreria[r][i].getColore()) {
+						d3 = false;
+						break;
+					}
+				}
+				if(d3==false) {
+					break;
+				}
+			}
+			
+			//check quarta diagonale possibile
+			for(r=1; r<=4; r++) {
+				for(int i=r+1; i<=5; i++) {
+					if(libreria[r][5-r].getColore()!=libreria[r][i].getColore()) {
+						d4 = false;
+						break;
+					}
+				}
+				if(d4==false) {
+					break;
+				}
+			}
+			
+			
+			if(d1==true || d2==true || d3==true || d4==true) {
+				return true;
+			}else {
+				return false;
+				}
+			
+		case Obiettivo8:
+			//4 righe di 5 tessere di max 3 tipi diversi (righe possono avere combinazioni di tipi diverse)
+			
+			for(int c=0; c<=4, c++) {
+				for(int r=0, r<=5)
+			}
+			
+			return true;
+			
+		case Obiettivo9:
+			//2 colonne ciascuna di 6 tipi diversi
+			int conto = 0; 
+			int fixR = 0;
+			int c = 0;
+			boolean div = true; //partiamo dal presupposto che in una colonna tutte le celle siano diverse
+			
+			do {
+				for(fixR=0; fixR<=4; fixR++) { //fisso (e scorro) la cella della colonna da controllare
+					for(r=fixR+1; r<=5; r++) { //scorro le celle successive 
+						if(libreria[fixR][c].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se ï¿½ vero che sono diverse
+						conto++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				c++; //passo al controllo di un'altra colonna
+				
+			}while{conto<2 || c<=4} //il ciclo si interrompe quando trovo le due colonne o quando ho controllato tutte le colonne
+			
+			if(conto==2) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		case Obiettivo10:
+			//2 righe ciascuna di 5 tipi diversi
+			int cont = 0; 
+			int fixC = 0;
+			int r = 0;
+			boolean div = true; //partiamo dal presupposto che in una riga tutte le celle siano diverse
+			
+			do {
+				for(fixC=0; fixC<=3; fixC++) { //fisso (e scorro) la cella della riga da controllare
+					for(c=fixC+1; c<=4; c++) { //scorro le celle successive 
+						if(libreria[r][fixC].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se è vero che sono diverse
+						cont++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				r++; //passo al controllo di un'altra riga
+				
+			}while{cont<2 || r<=5} //il ciclo si interrompe quando trovo le due righe o quando ho controllato tutte le righe
+			
+			if(cont==2) {
+				return true;
+			}else {
+				return false;
+			}
+			return true;
+			
+		case Obiettivo11:
+			//5 tessere dello stesso tipo messe a X
+			
+			for(int c=0; c<=4; c++) {
+				for(int r=0; r<=5, r++) {
+					if (libreria[r][c].getColore() == libreria[r][c+2].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore() && libreria[r][c].getColore() == libreria[r+2][c+2].getColore() && libreria[r][c].getColore() == libreria[r+2][c].getColore()) {
+						return true;
+					}
+				}
+			}
+			
+			return false;
+			
+		case Obiettivo12:
+			//5 colonne di altezza crescente/decrescente con tessere di qualsiasi tipo
+			
+			boolean dec = false;
+			boolean cre = false;
+			
+			//controllo decrescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=c+1; r<=5, r++) {
+					if (libreria[r][c]!=null) {
+						dec = true;
+					}else {
+						 dec = false;
+					}
+				}
+			}
+			
+			//controllo crescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=5; r>=5-c; r--) {
+					if (libreria[r][c]!=null) {
+						cre = true;
+					}else {
+						 cre = false;
+					}
+				}
+			}
+			
+			if(dec==true || cre==true) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		return false;
+		}
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1271)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2023-05-16 14:43:03.534
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1271)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-05-16 14:43:03.535
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1271)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:187)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-05-16 15:01:08.464
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package myShelfie;
+
+import java.util.Random;
+
+import myShelfie.TesseraOggetto.Colore;
+
+/*
+ * al momento dell'estrazione casuale delle due tessere obiettivo comune si
+ * salva in due variabili quale obiettivo va perseguito (il codice sottostante
+ * deve essere inserito nella classe di scorrimento del gioco)
+ * 
+ * public final enum PrimoObiettivo; public final enum SecondoObiettivo;
+ * 
+ * Random random = new Random();
+ * 
+ * genero due numeri casuali tra 1 e 12 finchï¿½ non sono diversi do{ int n1 =
+ * random.nextInt(12)+1; int n2 = random.nextInt(12)+1; } while(n1=n2)
+ * 
+ * associo ad ogni obiettivo in campo un obiettivo esistente PrimoObiettivo =
+ * Associa(n1); SecondoObiettivo = Associa(n2);
+ * 
+ * metodo per associare ad ogni numero casuale il corrispondente obiettivo
+ * public enum Associa(int n){ switch (n) { case 1: return
+ * ObiettivoComune.Obiettivo1; break; case 2: return ObiettivoComune.Obiettivo2;
+ * break; case 3: return ObiettivoComune.Obiettivo3; break; case 4: return
+ * ObiettivoComune.Obiettivo4; break; case 5: return ObiettivoComune.Obiettivo5;
+ * break; case 6: return ObiettivoComune.Obiettivo6; break; case 7: return
+ * ObiettivoComune.Obiettivo7; break; case 8: return ObiettivoComune.Obiettivo8;
+ * break; case 9: return ObiettivoComune.Obiettivo9; break; case 10: return
+ * ObiettivoComune.Obiettivo10; break; case 11: return
+ * ObiettivoComune.Obiettivo11; break; case 12: return
+ * ObiettivoComune.Obiettivo12; break; } }
+ * 
+ * 
+ */
+
+public class TesseraObiettivoComune {
+
+	public enum ObiettivoComune {
+		// l'identificazione delle carte obiettivo avviene tramite semplice numerazione
+		Obiettivo1, Obiettivo2, Obiettivo3, Obiettivo4, Obiettivo5, Obiettivo6, Obiettivo7, Obiettivo8, Obiettivo9,
+		Obiettivo10, Obiettivo11, Obiettivo12;
+
+		private static final ObiettivoComune[] obiettivi = ObiettivoComune.values();
+		private static final Random RandObiettivo = new Random();
+
+		public static ObiettivoComune getObiettivoComune(int i) {
+			return ObiettivoComune.obiettivi[i];
+		}
+
+		public static ObiettivoComune randObiettivi() {
+			ObiettivoComune[] obiettivi = values();
+			return obiettivi[RandObiettivo.nextInt(obiettivi.length)];
+		}
+
+	}
+
+	static ObiettivoComune obiettivo;
+
+	public TesseraObiettivoComune() {
+		obiettivo = ObiettivoComune.randObiettivi();
+	}
+	
+	
+	private static int punti = 8;
+	public static int getPoints(int numGiocatori) {
+		int tmp = punti;
+		if(numGiocatori > 2) {
+			punti -= 2;
+			return tmp;
+		}
+		if(numGiocatori == 2) {
+			punti -= 4;
+			return tmp;
+		}		
+	}
+
+	public static boolean ControlloObiettivoRaggiunto(TesseraObiettivoComune tessera_obiettivo, TesseraOggetto[][] libreria){ //passo obiettivo da controllare e libreria da controllare
+		
+		obiettivo = tessera_obiettivo.obiettivo;
+		switch (obiettivo) {
+		
+		case Obiettivo1:
+			//6 gruppi (separati) di due tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert = 0; // contatore per tenere traccia di quanti gruppi ci sono in verticale
+			int oriz = 0; //contatore per tenere traccia di quanti gruppi ci sono in orizzontale
+			
+			//controllo gruppo verticale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore()) {
+						vert++;
+						c+=1; //se trovo un gruppo la prossima colonna da controllare è a +2 dal riferimento 
+					}
+				}
+				if(vert!=0) {
+					r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+				}
+			}				
+		
+			
+			//controllo gruppo orizzontale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r+1; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}				
+		
+			
+			
+			if((vert+orizz) >= 6){
+				return true;
+			}else{
+				return false;
+				}
+			
+			
+		case Obiettivo2:
+			//4 tessere dello stesso tipo ai 4 angoli della libreria
+			if(libreria[0][0].getColore() == libreria[5][0].getColore() && libreria[0][0].getColore() == libreria[5][4].getColore() && libreria[0][0].getColore() == libreria[0][4].getColore()) {
+				return true;
+			}else{
+				return true;
+			}
+			
+		case Obiettivo3:
+			//4 gruppi (separati) di 4 tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert=0;
+			int oriz=0;
+			
+			 confronta la tessera con le 4 tessere adiacenti in verticale
+			 
+			
+			for(int c=0; c<6; c++) {  //scorro le colonne
+				for(int r=0; r<5; r++) { //scorro le righe
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore() == libreria[r+2][c].getColore() == libreria [r+3][c].getColore()) {
+						vert++;
+						r+=4; //se trovo un gruppo la riga da controllare è a +5 dal riferimento
+						c++; // la colonna da controllare va a +2 dal riferimento
+					}
+				}
+			}
+			
+			//controllo orizzontale
+			 
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=4; //se trovo un gruppo la prossima colonna da controllare è a +5 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r++; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}	
+			
+			
+			
+			if((vert+oriz) >= 4){
+				return true;
+			}else{
+				return false;
+				}
+				
+				 
+			
+			
+		case Obiettivo4:
+			//2 quadrati (separati) di 4 tessere dello stesso tipo anche i quadrati dello stesso tipo
+			
+			
+			int cont = 0; // contatore per tenere traccia di quanti gruppi ci sono
+			
+				for(int r=0, r<=5, r++) {
+					for(int c=0, c<=4, c++) {
+						if(libreria[r][c].getColore() == libreria[r][c+1].getColore() && libreria[r][c].getColore() == libreria[r+1][c].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore()) {
+							cont++;
+							c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+						}
+					}
+					if(cont!=0) {
+						r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+					}
+				}				
+			
+			if(cont=2){
+				return true;
+			}else{
+				return false;
+				}
+			
+						
+			
+		case Obiettivo5:
+			//3 colonne di 6 tessere di max 3 tipi diversi (colonne possono avere combinazioni di tipi diverse)
+			
+			String array = new String[7];
+			
+			for(int c=0, c<=5, c++) {
+				for(int r=0, r<=4)
+			}
+			
+			
+			
+			
+			
+			
+		case Obiettivo6:
+			//8 tessere dello stesso tipo
+			int contatore = 0;		
+			
+			//fisso (e scorro) la cella da confrontare con tutte le altre
+			for(int fissaR=0; fissaR<=5; fissaR++) {
+				for( int fixC=0; fixC>=4; fixC++) {
+					
+					//scorro l'intera matrice: PROBLEMA CHE FA CONFRONTO CON SE STESSO !!!!!!!!
+					for(int r=0; r<=5; r++) {
+						for(int c=0; c<=4; c++) {
+							if(libreria[fissaR][fixC].getColore()==libreria[r][c].getColore()){
+								contatore++;
+								if(contatore==8) {
+									return true;
+								}
+							}
+						}
+					}
+				}
+			}		
+			
+			return false;
+			
+		case Obiettivo7:
+			//5 tessere dello stesso tipo che fomrano una diagonale; 
+			boolean d1 = true;
+			boolean d2 = true;
+			boolean d3 = true;
+			boolean d4 = true;
+			
+			//check prima diagonale possibile
+			for( int r=0; r<=3; r++) {
+				for( int i=r+1; i<=4; i++) {
+					if(libreria[r][r].getColore()!=libreria[r][i].getColore()) {
+						d1 = false;
+						break;
+					}
+				}
+				if(d1==false) {
+					break;
+				}
+			}
+			
+			//check seconda diagonale possibile
+			for(r=1; r<=5; r++) {
+				for( int i=r+1; i<=5; i++) {
+					if(libreria[r][r-1].getColore()!=libreria[r][i].getColore()) {
+						d2 = false;
+						break;
+					}
+				}
+				if(d2==false) {
+					break;
+				}
+			}
+			
+			//check terza diagonale possibile
+			for(r=0; r<=3; r++) {
+				for(int i=r+1; i<=4; i++) {
+					if(libreria[r][4-r].getColore()!=libreria[r][i].getColore()) {
+						d3 = false;
+						break;
+					}
+				}
+				if(d3==false) {
+					break;
+				}
+			}
+			
+			//check quarta diagonale possibile
+			for(r=1; r<=4; r++) {
+				for(int i=r+1; i<=5; i++) {
+					if(libreria[r][5-r].getColore()!=libreria[r][i].getColore()) {
+						d4 = false;
+						break;
+					}
+				}
+				if(d4==false) {
+					break;
+				}
+			}
+			
+			
+			if(d1==true || d2==true || d3==true || d4==true) {
+				return true;
+			}else {
+				return false;
+				}
+			
+		case Obiettivo8:
+			//4 righe di 5 tessere di max 3 tipi diversi (righe possono avere combinazioni di tipi diverse)
+			
+				
+				
+				
+				
+				
+				
+		
+			return true;
+			
+		case Obiettivo9:
+			//2 colonne ciascuna di 6 tipi diversi
+			int conto = 0; 
+			int fixR = 0;
+			int c = 0;
+			boolean div = true; //partiamo dal presupposto che in una colonna tutte le celle siano diverse
+			
+			do {
+				for(fixR=0; fixR<=4; fixR++) { //fisso (e scorro) la cella della colonna da controllare
+					for(r=fixR+1; r<=5; r++) { //scorro le celle successive 
+						if(libreria[fixR][c].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se ï¿½ vero che sono diverse
+						conto++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				c++; //passo al controllo di un'altra colonna
+				
+			}while{conto<2 || c<=4} //il ciclo si interrompe quando trovo le due colonne o quando ho controllato tutte le colonne
+			
+			if(conto==2) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		case Obiettivo10:
+			//2 righe ciascuna di 5 tipi diversi
+			int cont = 0; 
+			int fixC = 0;
+			int r = 0;
+			boolean div = true; //partiamo dal presupposto che in una riga tutte le celle siano diverse
+			
+			do {
+				for(fixC=0; fixC<=3; fixC++) { //fisso (e scorro) la cella della riga da controllare
+					for(c=fixC+1; c<=4; c++) { //scorro le celle successive 
+						if(libreria[r][fixC].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se è vero che sono diverse
+						cont++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				r++; //passo al controllo di un'altra riga
+				
+			}while{cont<2 || r<=5} //il ciclo si interrompe quando trovo le due righe o quando ho controllato tutte le righe
+			
+			if(cont==2) {
+				return true;
+			}else {
+				return false;
+			}
+			return true;
+			
+		case Obiettivo11:
+			//5 tessere dello stesso tipo messe a X
+			
+			for(int c=0; c<=4; c++) {
+				for(int r=0; r<=5, r++) {
+					if (libreria[r][c].getColore() == libreria[r][c+2].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore() && libreria[r][c].getColore() == libreria[r+2][c+2].getColore() && libreria[r][c].getColore() == libreria[r+2][c].getColore()) {
+						return true;
+					}
+				}
+			}
+			
+			return false;
+			
+		case Obiettivo12:
+			//5 colonne di altezza crescente/decrescente con tessere di qualsiasi tipo
+			
+			boolean dec = false;
+			boolean cre = false;
+			
+			//controllo decrescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=c+1; r<=5, r++) {
+					if (libreria[r][c]!=null) {
+						dec = true;
+					}else {
+						 dec = false;
+					}
+				}
+			}
+			
+			//controllo crescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=5; r>=5-c; r--) {
+					if (libreria[r][c]!=null) {
+						cre = true;
+					}else {
+						 cre = false;
+					}
+				}
+			}
+			
+			if(dec==true || cre==true) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		return false;
+		}
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:521)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2023-05-16 15:01:08.473
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:521)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2023-05-16 15:01:08.481
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:521)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-05-16 15:01:08.523
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package myShelfie;
+
+import java.util.Random;
+
+import myShelfie.TesseraOggetto.Colore;
+
+/*
+ * al momento dell'estrazione casuale delle due tessere obiettivo comune si
+ * salva in due variabili quale obiettivo va perseguito (il codice sottostante
+ * deve essere inserito nella classe di scorrimento del gioco)
+ * 
+ * public final enum PrimoObiettivo; public final enum SecondoObiettivo;
+ * 
+ * Random random = new Random();
+ * 
+ * genero due numeri casuali tra 1 e 12 finchï¿½ non sono diversi do{ int n1 =
+ * random.nextInt(12)+1; int n2 = random.nextInt(12)+1; } while(n1=n2)
+ * 
+ * associo ad ogni obiettivo in campo un obiettivo esistente PrimoObiettivo =
+ * Associa(n1); SecondoObiettivo = Associa(n2);
+ * 
+ * metodo per associare ad ogni numero casuale il corrispondente obiettivo
+ * public enum Associa(int n){ switch (n) { case 1: return
+ * ObiettivoComune.Obiettivo1; break; case 2: return ObiettivoComune.Obiettivo2;
+ * break; case 3: return ObiettivoComune.Obiettivo3; break; case 4: return
+ * ObiettivoComune.Obiettivo4; break; case 5: return ObiettivoComune.Obiettivo5;
+ * break; case 6: return ObiettivoComune.Obiettivo6; break; case 7: return
+ * ObiettivoComune.Obiettivo7; break; case 8: return ObiettivoComune.Obiettivo8;
+ * break; case 9: return ObiettivoComune.Obiettivo9; break; case 10: return
+ * ObiettivoComune.Obiettivo10; break; case 11: return
+ * ObiettivoComune.Obiettivo11; break; case 12: return
+ * ObiettivoComune.Obiettivo12; break; } }
+ * 
+ * 
+ */
+
+public class TesseraObiettivoComune {
+
+	public enum ObiettivoComune {
+		// l'identificazione delle carte obiettivo avviene tramite semplice numerazione
+		Obiettivo1, Obiettivo2, Obiettivo3, Obiettivo4, Obiettivo5, Obiettivo6, Obiettivo7, Obiettivo8, Obiettivo9,
+		Obiettivo10, Obiettivo11, Obiettivo12;
+
+		private static final ObiettivoComune[] obiettivi = ObiettivoComune.values();
+		private static final Random RandObiettivo = new Random();
+
+		public static ObiettivoComune getObiettivoComune(int i) {
+			return ObiettivoComune.obiettivi[i];
+		}
+
+		public static ObiettivoComune randObiettivi() {
+			ObiettivoComune[] obiettivi = values();
+			return obiettivi[RandObiettivo.nextInt(obiettivi.length)];
+		}
+
+	}
+
+	static ObiettivoComune obiettivo;
+
+	public TesseraObiettivoComune() {
+		obiettivo = ObiettivoComune.randObiettivi();
+	}
+	
+	
+	private static int punti = 8;
+	public static int getPoints(int numGiocatori) {
+		int tmp = punti;
+		if(numGiocatori > 2) {
+			punti -= 2;
+			return tmp;
+		}
+		if(numGiocatori == 2) {
+			punti -= 4;
+			return tmp;
+		}		
+	}
+
+	public static boolean ControlloObiettivoRaggiunto(TesseraObiettivoComune tessera_obiettivo, TesseraOggetto[][] libreria){ //passo obiettivo da controllare e libreria da controllare
+		
+		obiettivo = tessera_obiettivo.obiettivo;
+		switch (obiettivo) {
+		
+		case Obiettivo1:
+			//6 gruppi (separati) di due tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert = 0; // contatore per tenere traccia di quanti gruppi ci sono in verticale
+			int oriz = 0; //contatore per tenere traccia di quanti gruppi ci sono in orizzontale
+			
+			//controllo gruppo verticale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore()) {
+						vert++;
+						c+=1; //se trovo un gruppo la prossima colonna da controllare è a +2 dal riferimento 
+					}
+				}
+				if(vert!=0) {
+					r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+				}
+			}				
+		
+			
+			//controllo gruppo orizzontale
+			
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r+1; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}				
+		
+			
+			
+			if((vert+orizz) >= 6){
+				return true;
+			}else{
+				return false;
+				}
+			
+			
+		case Obiettivo2:
+			//4 tessere dello stesso tipo ai 4 angoli della libreria
+			if(libreria[0][0].getColore() == libreria[5][0].getColore() && libreria[0][0].getColore() == libreria[5][4].getColore() && libreria[0][0].getColore() == libreria[0][4].getColore()) {
+				return true;
+			}else{
+				return true;
+			}
+			
+		case Obiettivo3:
+			//4 gruppi (separati) di 4 tessere adiacenti dello stesso tipo (gruppi anche tipi diversi)
+			
+			int vert=0;
+			int oriz=0;
+			
+			 confronta la tessera con le 4 tessere adiacenti in verticale
+			 
+			
+			for(int c=0; c<6; c++) {  //scorro le colonne
+				for(int r=0; r<5; r++) { //scorro le righe
+					if(libreria[r][c].getColore() == libreria[r+1][c].getColore() == libreria[r+2][c].getColore() == libreria [r+3][c].getColore()) {
+						vert++;
+						r+=4; //se trovo un gruppo la riga da controllare è a +5 dal riferimento
+						c++; // la colonna da controllare va a +2 dal riferimento
+					}
+				}
+			}
+			
+			//controllo orizzontale
+			 
+			for(int r=0, r<=5, r++) {
+				for(int c=0, c<=4, c++) {
+					if(libreria[r][c].getColore() == libreria[r][c+1].getColore()) {
+						oriz++;
+						c+=4; //se trovo un gruppo la prossima colonna da controllare è a +5 dal riferimento 
+					}
+				}
+				if(oriz!=0) {
+					r++; //se trovo un gruppo la prossima riga da controllare è a +2 dal riferimento
+				}
+			}	
+			
+			
+			
+			if((vert+oriz) >= 4){
+				return true;
+			}else{
+				return false;
+				}
+				
+				 
+			
+			
+		case Obiettivo4:
+			//2 quadrati (separati) di 4 tessere dello stesso tipo anche i quadrati dello stesso tipo
+			
+			
+			int cont = 0; // contatore per tenere traccia di quanti gruppi ci sono
+			
+				for(int r=0, r<=5, r++) {
+					for(int c=0, c<=4, c++) {
+						if(libreria[r][c].getColore() == libreria[r][c+1].getColore() && libreria[r][c].getColore() == libreria[r+1][c].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore()) {
+							cont++;
+							c+=2; //se trovo un gruppo la prossima colonna da controllare è a +3 dal riferimento 
+						}
+					}
+					if(cont!=0) {
+						r+2; //se trovo un gruppo la prossima riga da controllare è a +3 dal riferimento
+					}
+				}				
+			
+			if(cont=2){
+				return true;
+			}else{
+				return false;
+				}
+			
+						
+			
+		case Obiettivo5:
+			//3 colonne di 6 tessere di max 3 tipi diversi (colonne possono avere combinazioni di tipi diverse)
+			
+			String array = new String[7];
+			
+			for(int c=0, c<=5, c++) {
+				for(int r=0, r<=4)
+			}
+			
+			
+			
+			
+			
+			
+		case Obiettivo6:
+			//8 tessere dello stesso tipo
+			int contatore = 0;		
+			
+			//fisso (e scorro) la cella da confrontare con tutte le altre
+			for(int fissaR=0; fissaR<=5; fissaR++) {
+				for( int fixC=0; fixC>=4; fixC++) {
+					
+					//scorro l'intera matrice: PROBLEMA CHE FA CONFRONTO CON SE STESSO !!!!!!!!
+					for(int r=0; r<=5; r++) {
+						for(int c=0; c<=4; c++) {
+							if(libreria[fissaR][fixC].getColore()==libreria[r][c].getColore()){
+								contatore++;
+								if(contatore==8) {
+									return true;
+								}
+							}
+						}
+					}
+				}
+			}		
+			
+			return false;
+			
+		case Obiettivo7:
+			//5 tessere dello stesso tipo che fomrano una diagonale; 
+			boolean d1 = true;
+			boolean d2 = true;
+			boolean d3 = true;
+			boolean d4 = true;
+			
+			//check prima diagonale possibile
+			for( int r=0; r<=3; r++) {
+				for( int i=r+1; i<=4; i++) {
+					if(libreria[r][r].getColore()!=libreria[r][i].getColore()) {
+						d1 = false;
+						break;
+					}
+				}
+				if(d1==false) {
+					break;
+				}
+			}
+			
+			//check seconda diagonale possibile
+			for(r=1; r<=5; r++) {
+				for( int i=r+1; i<=5; i++) {
+					if(libreria[r][r-1].getColore()!=libreria[r][i].getColore()) {
+						d2 = false;
+						break;
+					}
+				}
+				if(d2==false) {
+					break;
+				}
+			}
+			
+			//check terza diagonale possibile
+			for(r=0; r<=3; r++) {
+				for(int i=r+1; i<=4; i++) {
+					if(libreria[r][4-r].getColore()!=libreria[r][i].getColore()) {
+						d3 = false;
+						break;
+					}
+				}
+				if(d3==false) {
+					break;
+				}
+			}
+			
+			//check quarta diagonale possibile
+			for(r=1; r<=4; r++) {
+				for(int i=r+1; i<=5; i++) {
+					if(libreria[r][5-r].getColore()!=libreria[r][i].getColore()) {
+						d4 = false;
+						break;
+					}
+				}
+				if(d4==false) {
+					break;
+				}
+			}
+			
+			
+			if(d1==true || d2==true || d3==true || d4==true) {
+				return true;
+			}else {
+				return false;
+				}
+			
+		case Obiettivo8:
+			//4 righe di 5 tessere di max 3 tipi diversi (righe possono avere combinazioni di tipi diverse)
+			
+				
+				
+				
+				
+				
+				
+		
+			return true;
+			
+		case Obiettivo9:
+			//2 colonne ciascuna di 6 tipi diversi
+			int conto = 0; 
+			int fixR = 0;
+			int c = 0;
+			boolean div = true; //partiamo dal presupposto che in una colonna tutte le celle siano diverse
+			
+			do {
+				for(fixR=0; fixR<=4; fixR++) { //fisso (e scorro) la cella della colonna da controllare
+					for(r=fixR+1; r<=5; r++) { //scorro le celle successive 
+						if(libreria[fixR][c].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se ï¿½ vero che sono diverse
+						conto++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				c++; //passo al controllo di un'altra colonna
+				
+			}while{conto<2 || c<=4} //il ciclo si interrompe quando trovo le due colonne o quando ho controllato tutte le colonne
+			
+			if(conto==2) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		case Obiettivo10:
+			//2 righe ciascuna di 5 tipi diversi
+			int cont = 0; 
+			int fixC = 0;
+			int r = 0;
+			boolean div = true; //partiamo dal presupposto che in una riga tutte le celle siano diverse
+			
+			do {
+				for(fixC=0; fixC<=3; fixC++) { //fisso (e scorro) la cella della riga da controllare
+					for(c=fixC+1; c<=4; c++) { //scorro le celle successive 
+						if(libreria[r][fixC].getColore()==libreria[r][c].getColore()) { //se trovo due celle uguali interrompo il ciclo di controllo
+							div=false; 
+							break;
+						}
+					}
+					if(div==true) { //se è vero che sono diverse
+						cont++;
+					}
+				}
+				div=true; //riporto il presupposto iniziale
+				r++; //passo al controllo di un'altra riga
+				
+			}while{cont<2 || r<=5} //il ciclo si interrompe quando trovo le due righe o quando ho controllato tutte le righe
+			
+			if(cont==2) {
+				return true;
+			}else {
+				return false;
+			}
+			return true;
+			
+		case Obiettivo11:
+			//5 tessere dello stesso tipo messe a X
+			
+			for(int c=0; c<=4; c++) {
+				for(int r=0; r<=5, r++) {
+					if (libreria[r][c].getColore() == libreria[r][c+2].getColore() && libreria[r][c].getColore() == libreria[r+1][c+1].getColore() && libreria[r][c].getColore() == libreria[r+2][c+2].getColore() && libreria[r][c].getColore() == libreria[r+2][c].getColore()) {
+						return true;
+					}
+				}
+			}
+			
+			return false;
+			
+		case Obiettivo12:
+			//5 colonne di altezza crescente/decrescente con tessere di qualsiasi tipo
+			
+			boolean dec = false;
+			boolean cre = false;
+			
+			//controllo decrescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=c+1; r<=5, r++) {
+					if (libreria[r][c]!=null) {
+						dec = true;
+					}else {
+						 dec = false;
+					}
+				}
+			}
+			
+			//controllo crescente sx -> dx
+			for(int c=0; c<=4; c++) {
+				for(int r=5; r>=5-c; r--) {
+					if (libreria[r][c]!=null) {
+						cre = true;
+					}else {
+						 cre = false;
+					}
+				}
+			}
+			
+			if(dec==true || cre==true) {
+				return true;
+			}else {
+				return false;
+			}
+			
+		return false;
+		}
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1271)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2023-05-16 15:01:08.526
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1271)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-05-16 15:01:08.528
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2047)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3853)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1953)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1990)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToExpression(ASTConverter.java:3705)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3013)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2220)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3034)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3159)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3046)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3390)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1534)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1271)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
